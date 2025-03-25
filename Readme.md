@@ -1,3 +1,8 @@
+-=(Poseidon notes)=-
+
+VHD not working 
+
+___
 # Rememotech MTX port for MiSTer FPGA Board.
 
 Originbal development from Andy.Z.Key : http://www.nyangau.org/rememotech/rememotech.htm
