@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 100C Model Setup 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -26.691
+TNS   : -16497.242
+
+Type  : Slow 1200mV 100C Model Setup 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -11.391
+TNS   : -5934.000
+
+Type  : Slow 1200mV 100C Model Setup 'CLOCK_50'
+Slack : -8.218
+TNS   : -13680.678
+
+Type  : Slow 1200mV 100C Model Setup 'SPI_SCK'
+Slack : -6.385
+TNS   : -409.778
+
+Type  : Slow 1200mV 100C Model Setup 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : -3.221
+TNS   : -17.066
+
+Type  : Slow 1200mV 100C Model Hold 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -0.031
+TNS   : -0.031
+
+Type  : Slow 1200mV 100C Model Hold 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'CLOCK_50'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'SPI_SCK'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.654
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Recovery 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -4.099
+TNS   : -1065.078
+
+Type  : Slow 1200mV 100C Model Recovery 'CLOCK_50'
+Slack : -3.943
+TNS   : -54.138
+
+Type  : Slow 1200mV 100C Model Recovery 'SPI_SCK'
+Slack : -3.373
+TNS   : -19.933
+
+Type  : Slow 1200mV 100C Model Removal 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : 1.931
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'SPI_SCK'
+Slack : 2.924
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'CLOCK_50'
+Slack : 3.063
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -7787.640
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'SPI_SCK'
+Slack : -3.000
+TNS   : -247.020
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -2.710
+TNS   : -2743.620
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.710
+TNS   : -813.700
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -23.509
+TNS   : -14597.517
+
+Type  : Slow 1200mV -40C Model Setup 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -9.888
+TNS   : -4946.610
+
+Type  : Slow 1200mV -40C Model Setup 'CLOCK_50'
+Slack : -7.451
+TNS   : -12268.511
+
+Type  : Slow 1200mV -40C Model Setup 'SPI_SCK'
+Slack : -5.441
+TNS   : -350.969
+
+Type  : Slow 1200mV -40C Model Setup 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : -3.040
+TNS   : -16.425
+
+Type  : Slow 1200mV -40C Model Hold 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -0.153
+TNS   : -0.153
+
+Type  : Slow 1200mV -40C Model Hold 'CLOCK_50'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'SPI_SCK'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.847
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'CLOCK_50'
+Slack : -3.640
+TNS   : -50.164
+
+Type  : Slow 1200mV -40C Model Recovery 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -3.606
+TNS   : -977.260
+
+Type  : Slow 1200mV -40C Model Recovery 'SPI_SCK'
+Slack : -3.381
+TNS   : -20.056
+
+Type  : Slow 1200mV -40C Model Removal 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : 1.732
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'SPI_SCK'
+Slack : 2.657
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'CLOCK_50'
+Slack : 2.803
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -7617.816
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'SPI_SCK'
+Slack : -3.000
+TNS   : -246.288
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -2.649
+TNS   : -2739.228
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.649
+TNS   : -809.430
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.269
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -12.302
+TNS   : -7188.011
+
+Type  : Fast 1200mV -40C Model Setup 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.442
+TNS   : -1893.964
+
+Type  : Fast 1200mV -40C Model Setup 'CLOCK_50'
+Slack : -3.740
+TNS   : -5803.308
+
+Type  : Fast 1200mV -40C Model Setup 'SPI_SCK'
+Slack : -2.332
+TNS   : -123.236
+
+Type  : Fast 1200mV -40C Model Setup 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : -1.355
+TNS   : -5.855
+
+Type  : Fast 1200mV -40C Model Hold 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -0.143
+TNS   : -0.143
+
+Type  : Fast 1200mV -40C Model Hold 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'CLOCK_50'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'SPI_SCK'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -1.445
+TNS   : -249.431
+
+Type  : Fast 1200mV -40C Model Recovery 'CLOCK_50'
+Slack : -1.390
+TNS   : -18.555
+
+Type  : Fast 1200mV -40C Model Recovery 'SPI_SCK'
+Slack : -0.945
+TNS   : -5.515
+
+Type  : Fast 1200mV -40C Model Removal 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : 0.741
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'SPI_SCK'
+Slack : 0.927
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'CLOCK_50'
+Slack : 1.415
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -3744.871
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'SPI_SCK'
+Slack : -3.000
+TNS   : -235.302
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|clock_divider:U_DIVIDER|clk_cpu'
+Slack : -1.000
+TNS   : -1771.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'emu|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'emu:emu|rememotech:rememotech|T80se:U_Z80|MREQ_n'
+Slack : 0.355
+TNS   : 0.000
+
+------------------------------------------------------------

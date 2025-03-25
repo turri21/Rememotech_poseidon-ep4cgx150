@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Mar 25 21:50:25 2025
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Lite Edition
+Revision Name : Rememotech_poseidon-ep4cgx150
+Top-level Entity Name : poseidon_top
+Family : Cyclone IV GX
+Device : EP4CGX150DF27I7
+Timing Models : Final
+Total logic elements : 14,375 / 149,760 ( 10 % )
+    Total combinational functions : 13,627 / 149,760 ( 9 % )
+    Dedicated logic registers : 3,388 / 149,760 ( 2 % )
+Total registers : 3388
+Total pins : 77 / 426 ( 18 % )
+Total virtual pins : 0
+Total memory bits : 4,012,032 / 6,635,520 ( 60 % )
+Embedded Multiplier 9-bit elements : 8 / 720 ( 1 % )
+Total GXB Receiver Channel PCS : 0 / 8 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 8 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 8 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 8 ( 0 % )
+Total PLLs : 1 / 8 ( 13 % )

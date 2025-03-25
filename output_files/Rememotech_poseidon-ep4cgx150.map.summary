@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Tue Mar 25 21:41:58 2025
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Lite Edition
+Revision Name : Rememotech_poseidon-ep4cgx150
+Top-level Entity Name : poseidon_top
+Family : Cyclone IV GX
+Total logic elements : 15,085
+    Total combinational functions : 13,624
+    Dedicated logic registers : 3,396
+Total registers : 3396
+Total pins : 77
+Total virtual pins : 0
+Total memory bits : 4,012,032
+Embedded Multiplier 9-bit elements : 8
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 1
